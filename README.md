@@ -7,3 +7,5 @@ Developed a end-to-end data science pipeline with the following
 - visualized the data using PowerBI.
 - Implemented prediciton model using PowerApps AI models to predict job salary.
 - Included a demo video of the PowerApps app
+
+Detailed Documentation - https://github.com/datawhiz02/PowerBI-PowerApps/blob/main/JobHarvestPro_Documentation.pdf
